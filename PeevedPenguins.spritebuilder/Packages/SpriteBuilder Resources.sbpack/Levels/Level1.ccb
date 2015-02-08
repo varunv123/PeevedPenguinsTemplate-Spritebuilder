@@ -1360,7 +1360,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>556</real>
+							<real>412</real>
 							<real>72</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1533,7 +1533,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>555</real>
+							<real>411</real>
 							<real>254</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1706,7 +1706,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>555</real>
+							<real>411</real>
 							<real>343</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1879,7 +1879,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>555</real>
+							<real>411</real>
 							<real>298</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2052,7 +2052,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>555</real>
+							<real>411</real>
 							<real>208</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2225,7 +2225,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>555</real>
+							<real>411</real>
 							<real>161</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2398,7 +2398,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>556</real>
+							<real>412</real>
 							<real>117</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2571,7 +2571,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>556</real>
+							<real>412</real>
 							<real>25</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -2646,8 +2646,6 @@
 						<array/>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -2720,6 +2718,8 @@
 				</array>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
